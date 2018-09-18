@@ -1,0 +1,23 @@
+#include "glm.hpp"
+#include "mge/core/Camera.hpp"
+
+Camera::Camera( std::string pName, glm::vec3 pPosition, glm::mat4 pProjectionMatrix )
+:	GameObject(pName, pPosition), _projection(pProjectionMatrix)
+{
+}
+
+Camera::~Camera()
+{
+	//dtor
+}
+
+glm::mat4 & Camera::getInverseWorldTransform()
+{
+	return glm::inverse(this->getWorldTransform());
+	// TODO: insert return statement here
+}
+
+glm::mat4& Camera::getProjection() {
+    return _projection;
+}
+

@@ -1,0 +1,33 @@
+﻿  main.cpp
+  AbstractBehaviour.cpp
+  KeysBehaviour.cpp
+  RotatingBehaviour.cpp
+  AbstractGame.cpp
+  Camera.cpp
+  GameObject.cpp
+  Light.cpp
+  Mesh.cpp
+  Renderer.cpp
+  ShaderProgram.cpp
+  Texture.cpp
+  World.cpp
+  AABB.cpp
+d:\edu\shend_mge\v4_ loop optimizations\engine source\mge_v18_student_version\src\mge\extended\aabb.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Collider.cpp
+  OBB.cpp
+  Octree.cpp
+  OrbitingBehaviour.cpp
+  AbstractMaterial.cpp
+  ColorMaterial.cpp
+  Generating Code...
+d:\edu\shend_mge\v4_ loop optimizations\engine source\mge_v18_student_version\src\mge\core\camera.cpp(16): warning C4172: returning address of local variable or temporary
+  Compiling...
+  TextureMaterial.cpp
+  MGEDemo.cpp
+d:\edu\shend_mge\v4_ loop optimizations\engine source\mge_v18_student_version\src\mge\mgedemo.cpp(106): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\edu\shend_mge\v4_ loop optimizations\engine source\mge_v18_student_version\src\mge\mgedemo.cpp(149): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\edu\shend_mge\v4_ loop optimizations\engine source\mge_v18_student_version\src\mge\mgedemo.cpp(151): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\edu\shend_mge\v4_ loop optimizations\engine source\mge_v18_student_version\src\mge\mgedemo.cpp(237): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  DebugHud.cpp
+  Generating Code...
+  mge.vcxproj -> D:\Edu\Shend_MGE\V4_ Loop optimizations\Engine Source\mge_v18_student_version\_vs2015\debug_dynamic_exe/mge.exe
